@@ -1,4 +1,5 @@
-SpecFlow_C# BDD Project
+SpecFlow- C# BDD Project:-
+
 Open the solution file POC.sln in Visual Studio or your preferred IDE. Dependencies This example uses the following dependencies:
 
 SpecFlow: A BDD (Behavior Driven Development) framework for .NET. HttpClient: A class for sending HTTP requests and receiving HTTP responses from a resource identified by a URI. These dependencies will be automatically restored when you build the solution. SpecFlow NUnit SpecFlow MSTest SpecFlow Allure and so on
